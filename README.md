@@ -7,9 +7,6 @@ I'm backend developer.
 * 🌍  I'm based in Uzbekistan
 * ✉️  You can contact me at [fathullaxonaltipov@gmail.com](mailto:fathullaxonaltipov@gmail.com)
 * 🧠  I'm learning AI
-
-<a href="https://www.instagram.com/latipoff_f?igsh=bjdyNTdpZGtzOWls" target="_blank" rel="noreferrer"><img
-src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"/></a>
 ### Skills
 
 <p align="left">
