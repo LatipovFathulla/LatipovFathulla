@@ -9,8 +9,7 @@ I'm backend developer.
 * 🧠  I'm learning AI
 
 <a href="https://www.instagram.com/latipoff_f?igsh=bjdyNTdpZGtzOWls" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/DoniyorTur29340?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg"/></a>
 ### Skills
 
 <p align="left">
