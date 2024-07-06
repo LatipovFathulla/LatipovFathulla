@@ -5,7 +5,7 @@ I'm backend developer.
 ----------------------
 
 * 🌍  I'm based in Uzbekistan
-* ✉️  You can contact me at [fathullaxonaltipov@gmail.com](mailto:fathullaxonaltipov@gmail.com)
+* ✉️  You can contact me at [fathullaxonlatipov@gmail.com](mailto:fathullaxonlatipov@gmail.com)
 * 🧠  I'm learning AI
 ### Skills
 
