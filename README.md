@@ -21,6 +21,6 @@ I'm backend developer.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/doniyor401"><img src="https://github-readme-stats.vercel.app/api?username=doniyor401&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="doniyor401's GitHub stats" /></a>
+<a href="http://www.github.com/LatipovFathulla"><img src="https://github-readme-stats.vercel.app/api?username=fathulla&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Fathulla's GitHub stats" /></a>
 
-<a href="https://github.com/doniyor401" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doniyor401&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/LatipovFathulla" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fathulla&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
